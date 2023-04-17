@@ -1,5 +1,5 @@
 {
-    "name": "umpirsky/twig-php-function",
+    "name": "macwinnie/twig-php-function",
     "type": "library",
     "description": "Call (almost) any PHP function from your Twig templates.",
     "license": "MIT",
@@ -7,6 +7,10 @@
         {
             "name": "Saša Stamenković",
             "email": "umpirsky@gmail.com"
+        },
+        {
+            "name": "macwinnie",
+            "email": "dev@macwinnie.me"
         }
     ],
     "require": {
