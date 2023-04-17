@@ -2,8 +2,8 @@
 
 namespace Umpirsky\Twig\Extension;
 
-use Twig_Extension;
-use Twig_SimpleFunction;
+use Twig\Extension\AbstractExtension as Twig_Extension;
+use Twig\TwigFunction as Twig_SimpleFunction;
 use BadFunctionCallException;
 
 class PhpFunctionExtension extends Twig_Extension
